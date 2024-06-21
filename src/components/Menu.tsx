@@ -5,7 +5,7 @@ import MenuCard from "./MenuCard";
 
 const menuData = [
   {
-    img: "/cake.avif",
+    img: "/cake.webp",
     title: "Delicious Cake",
     desc: "2x tuna sahimi, 1x noodles",
     price: "$29.50",
